@@ -29,7 +29,7 @@ This is the simple **frontend** of a simple eCommerce product listing web applic
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Chinthana7858/sparkglobalassignment_client.git
 cd client
 ```
 
